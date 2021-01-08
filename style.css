@@ -12,6 +12,14 @@ body {
     align-content: center;
 }
 
+button {
+  background-color: rebeccapurple;
+  border-radius: 5px;
+  border: none;
+    
+}
+
+
 html {
   
   font-size: calc(1em + 3vmax);
